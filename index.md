@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Profile - Thomas Michael Winkler Neumann, M.Sc.
-description: Welcome to my GitHub personal page!
+description: Welcome to my personal profile page! [BETA]
 ---
 ## Welcome!
 🚧 Site under construction 🚧
