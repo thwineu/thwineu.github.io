@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Profile - Thomas Michael Winkler Neumann, M.Sc.
+title: Thomas Michael Winkler Neumann, M.Sc.
 description: Welcome to my personal profile page.
 ---
 
-> **Transforming data into scalable, actionable solutions.** > Innovation at heart. I am a Data Scientist and Civil Industrial Engineer specializing in machine learning, artificial intelligence, and strategic data analysis/business analytics. I identify painpoints and build systems that bridge the gap between advanced analytical models and practical business operations.
+> **Transforming data into scalable, actionable solutions.**
+> Digital Innovation at heart.
+> I am a Data Scientist and Civil Industrial Engineer specializing in machine learning, artificial intelligence, and strategic data analysis/business analytics. I identify painpoints and build systems that bridge the gap between advanced analytical models and practical business operations.
 
 ---
 
 ## 🛠 Core Competencies
 
 * **Domains:** Machine Learning & Deep learning, AI Strategy & Governance, Data Governance, Data Processing, Data Visualization & Data Infrastructure.
-* **Coding:** Python, R, SQL, C.
+* **Main Coding Languages:** Python, R, SQL, C.
 * **Languages:** Spanish, English & German.
 
 ## Latest Experience
