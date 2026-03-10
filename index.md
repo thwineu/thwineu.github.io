@@ -12,7 +12,7 @@ description: Welcome to my personal profile page.
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-bottom: 2rem;">
   <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="media/profile.jpg" alt="Thomas Michael Winkler Neumann" style="border-radius: 50%; max-width: 220px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="media/profile.jpg" alt="Thomas Michael Winkler Neumann" style="border-radius: 5%; max-width: 220px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   <div markdown="1" style="flex: 2; min-width: 300px;">
 
