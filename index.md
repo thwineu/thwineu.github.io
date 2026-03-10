@@ -4,19 +4,30 @@ title: Thomas Michael Winkler Neumann, M.Sc.
 description: Welcome to my personal profile page.
 ---
 
-> **Transforming data into scalable, actionable solutions.**
-> Digital Innovation at heart.
-> I am a Data Scientist and Civil Industrial Engineer specializing in machine learning, artificial intelligence, and strategic data analysis/business analytics. I identify painpoints and build systems that bridge the gap between advanced analytical models and practical business operations.
+> **Digital Innovation at heart to transform data into scalable, actionable solutions.**
+> 
+> I am a Data Scientist and Civil Industrial Engineer specializing in machine learning, artificial intelligence, and strategic data analysis/business analytics. I identify pain points and build systems that bridge the gap between advanced analytical models and practical business operations.
 
 ---
 
-## 🛠 Core Competencies
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-bottom: 2rem;">
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="media/profile.png" alt="Thomas Michael Winkler Neumann" style="border-radius: 50%; max-width: 220px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div markdown="1" style="flex: 2; min-width: 300px;">
+
+## 🔧 Core Competencies
 
 * **Domains:** Machine Learning & Deep learning, AI Strategy & Governance, Data Governance, Data Processing, Data Visualization & Data Infrastructure.
 * **Main Coding Languages:** Python, R, SQL, C.
 * **Languages:** Spanish, English & German.
 
-## Latest Experience
+  </div>
+</div>
+
+---
+
+## 💼 Latest Experience
 
 * **Freelance Specialist in Data Science, - Infrastructure, - Processing, - Analysis, and Artificial Intelligence** | *Upwork Consulting* (May 2025 – Present)
   Focusing on data processing, application testing, and building tailored business solutions.
@@ -27,20 +38,41 @@ description: Welcome to my personal profile page.
 * **International Internship as Digital Innovation Consultant (Data Analysis and AI)** | *Henn Connector Group (Dornbirn, Austria)* (Jul 2024 – Dec 2024)
   Contributed to the development and implementation of AI-driven strategies and operational models.
   
-* **Co-Founder & Entrepeneur/Manager** | *Oferte_ch & Kibō Patagonia SPA* (April 2014 – Present)
+* **Co-Founder & Entrepreneur/Manager** | *Oferte_ch & Kibō Patagonia SPA* (April 2014 – Present)
   Created and managed a digital marketplace platform for buying and selling technology. Contributed in the creation of brand identity while scaling-up production.
 
-## Research & Projects
+## 📑 Research & Projects
 
 * **USE OF LARGE LANGUAGE MODELS TO IDENTIFY EMPATHY (M.Sc. Thesis):** Researched and developed an artificial intelligence model pipeline to analyze and detect empathy markers, successfully defended in August 2025 and graduated in December 2025.
 
 ---
 
-## 🔗 Links
-* [LinkedIn](https://www.linkedin.com/in/thwineu/)
-* [Twitter/X](https://x.com/thwineu)
-* [GitHub](https://github.com/th-winkler)
-
----
-
-Follow development in my [GitHub Repository](https://github.com/thwineu/thwineu.github.io)
+<footer style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; font-size: 0.9em; padding-top: 10px; color: #606c71;">
+  <div style="margin-bottom: 15px; flex: 1; min-width: 250px;">
+    <p style="margin: 0 0 10px 0;">&copy; 2026 Thomas Winkler</p>
+    <a href="mailto:thwineu@gmail.com" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
+      Email
+    </a>
+    <a href="https://www.linkedin.com/in/thwineu/" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
+      <img src="media/linkedin.png" width="16" height="16" alt="LinkedIn" style="margin: 0;"> LinkedIn
+    </a>
+    <a href="https://x.com/thwineu" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
+      <img src="media/twitter.png" width="16" height="16" alt="Twitter" style="margin: 0;"> Twitter/X
+    </a>
+    <a href="https://github.com/th-winkler" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
+      <img src="media/github.png" width="16" height="16" alt="GitHub" style="margin: 0;"> GitHub
+    </a>
+  </div>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: flex-end; flex: 2; min-width: 300px;">
+    <details>
+      <summary style="cursor: pointer; color: #1e6bb8; font-weight: bold;"> Additional information</summary>
+      <p style="margin-top: 10px; font-size: 0.9em;">
+        Follow this site's development in my <a href="https://github.com/thwineu/thwineu.github.io">GitHub Repository</a>.<br>
+        <a> <a href="https://github.com/pages-themes/cayman">cayman is maintained by <a href="https://github.com/pages-themes">pages-themes. | 
+          This page was generated by <a href="https://pages.github.com/">GitHub Pages</a>.<br>
+        <a href="https://www.flaticon.com/authors/freepik" title="Freepik icons">Icons created by Freepik - Obtained from Flaticon.com</a>
+      </p>
+    </details>
+  </div>
+</footer>
