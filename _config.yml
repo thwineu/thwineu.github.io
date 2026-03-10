@@ -1,3 +1,12 @@
-remote_theme: pages-themes/cayman@v0.2.0
+# Site Settings
+title: Profile - Thomas Michael Winkler Neumann
+description: Data Scientist & Civil Industrial Engineer Portfolio
+url: "https://thwineu.github.io"
+baseurl: ""
+
+# Theme Settings
+theme: jekyll-theme-cayman
+
+# Build Settings
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
