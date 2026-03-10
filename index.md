@@ -45,8 +45,6 @@ description: Welcome to my personal profile page.
 
 * **USE OF LARGE LANGUAGE MODELS TO IDENTIFY EMPATHY (M.Sc. Thesis):** Researched and developed an artificial intelligence model pipeline to analyze and detect empathy markers, successfully defended in August 2025 and graduated in December 2025.
 
----
-
 <style>
   .page-header { padding: 2.5rem 2rem !important; }
   .project-name { font-size: 2rem !important; }
