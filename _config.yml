@@ -1,0 +1,12 @@
+# Site Settings
+title: Profile - Thomas Michael Winkler Neumann
+description: Data Scientist & Civil Industrial Engineer Portfolio
+url: "https://thwineu.github.io"
+baseurl: ""
+
+# Theme Settings
+theme: jekyll-theme-cayman
+
+# Build Settings
+plugins:
+  - jekyll-seo-tag
