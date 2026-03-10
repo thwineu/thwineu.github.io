@@ -62,8 +62,26 @@ description: Welcome to my personal profile page.
 <footer style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; font-size: 0.9em; padding-top: 10px; color: #606c71;">
 <div style="margin-bottom: 15px; flex: 1; min-width: 250px;">
 <p style="margin: 0 0 10px 0;">&copy; 2026 Thomas Winkler</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: flex-end; flex: 2; min-width: 300px;">
+<strong>Let's Connect</strong>
+<a href="mailto:thwineu@gmail.com" class="footer-link" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
+<img src="media/email.png" width="16" height="16" alt="Email" style="margin: 0;"> Email
+</a> | 
+<a href="https://www.linkedin.com/in/thwineu/" class="footer-link" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
+<img src="media/linkedin.png" width="16" height="16" alt="LinkedIn" style="margin: 0;"> LinkedIn
+</a> | 
+<a href="https://x.com/thwineu" class="footer-link" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
+<img src="media/twitter.png" width="16" height="16" alt="Twitter" style="margin: 0;"> Twitter/X
+</a> | 
+<a href="https://github.com/th-winkler" class="footer-link" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
+<img src="media/github.png" width="16" height="16" alt="GitHub" style="margin: 0;"> GitHub
+</a> | 
+</div>
+
+<div style="margin-bottom: 15px; flex: 1; min-width: 250px;">
 <details>
-<summary style="cursor: pointer; color: #1e6bb8; font-weight: bold;"> Additional information</summary>
+<summary style="cursor: pointer; color: #1e6bb8; font-weight: light;">Additional information</summary>
 <p style="margin-top: 10px; font-size: 0.9em;">
 Follow this site's development in my <a href="https://github.com/thwineu/thwineu.github.io">GitHub Repository</a>.<br>
 <a href="https://github.com/pages-themes/cayman">Cayman</a> is maintained by <a href="https://github.com/pages-themes">pages-themes</a>. | 
@@ -72,21 +90,5 @@ Icons created by <a href="https://www.flaticon.com/authors/freepik" title="Freep
 <a href="https://www.flaticon.com/">Flaticon.com</a>
 </p>
 </details>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: flex-end; flex: 2; min-width: 300px;">
-<strong>Let's Connect</strong>
-<a href="mailto:thwineu@gmail.com" class="footer-link" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
-<img src="media/email.png" width="16" height="16" alt="Email" style="margin: 0;"> Email
-</a>
-<a href="https://www.linkedin.com/in/thwineu/" class="footer-link" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
-<img src="media/linkedin.png" width="16" height="16" alt="LinkedIn" style="margin: 0;"> LinkedIn
-</a>
-<a href="https://x.com/thwineu" class="footer-link" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
-<img src="media/twitter.png" width="16" height="16" alt="Twitter" style="margin: 0;"> Twitter/X
-</a>
-<a href="https://github.com/th-winkler" class="footer-link" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: #1e6bb8;">
-<img src="media/github.png" width="16" height="16" alt="GitHub" style="margin: 0;"> GitHub
-</a>
 </div>
 </footer>
